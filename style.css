@@ -286,12 +286,12 @@ footer {
     font-size: 13px;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 425px) {
     .boxes {
         grid-template-columns: 1fr;
         width: 90%;
-        margin-top: 6px;
-        margin-left: 30px;
+        margin-top: 10px;
+        margin-left: 65px;
     }
 
     .nav {
@@ -317,3 +317,4 @@ footer {
     }
 
 }
+
